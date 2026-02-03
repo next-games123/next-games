@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<title>Termos de Uso - Next Games</title>
+</head>
+<body>
+
+<h1>Termos de Uso</h1>
+
+<p>Ao acessar o site <strong>Next Games</strong>, você concorda com os termos descritos abaixo.</p>
+
+<h2>Uso do Site</h2>
+<p>O Next Games oferece jogos online gratuitos apenas para entretenimento. O uso do site é permitido para fins pessoais e não comerciais.</p>
+
+<h2>Responsabilidade</h2>
+<p>Não nos responsabilizamos por falhas técnicas, indisponibilidade dos jogos ou conteúdos de terceiros exibidos por meio de iframes.</p>
+
+<h2>Conteúdo de Terceiros</h2>
+<p>Alguns jogos são fornecidos por sites parceiros. O Next Games não possui controle total sobre esses conteúdos.</p>
+
+<h2>Alterações</h2>
+<p>Os termos podem ser alterados a qualquer momento sem aviso prévio.</p>
+
+<p>Última atualização: 2026</p>
+
+</body>
+</html>
